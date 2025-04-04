@@ -1,2 +1,2 @@
-# data-pipeline-project-phase-1
-Data Pipeline project.
+# coingecko-trending-pipeline-phase-1
+CoinGecko Trending Pipeline
